@@ -1,0 +1,104 @@
+{
+    "starters":[
+        {
+            "name":"Chilli Chicken",
+            "price":70
+        },
+        {
+            "name":"Chicken 65",
+            "price":80
+        },
+        {
+            "name":"Veg Manchuria",
+            "price":60
+        },
+        {
+            "name":"Chicken Manchuria",
+            "price":90
+        },
+        {
+            "name":"Paneer 65",
+            "price":80
+        }
+    ],
+    "maincourse":[
+        {
+            "name":"Veg Biryani",
+            "price":220
+        },
+        {
+            "name":"Chicken Biryani",
+            "price":300
+        },
+        {
+            "name":"Mutton Biryani",
+            "price":360
+        },
+        {
+            "name":"Special Family Pack Biryani",
+            "price":400
+        },
+        {
+            "name":"Veg Fried Rice",
+            "price":180
+        },
+        {
+            "name":"Egg Fried Rice",
+            "price":220
+        },
+        {
+            "name":"Chicken Fried Rice",
+            "price":250
+        },
+        {
+            "name":"Mutton Fried Rice",
+            "price":280
+        }
+    ],
+    "desserts":[
+        {
+            "name":"Ice Cream",
+            "price":40
+        },
+        {
+            "name":"Cake",
+            "price":65
+        },
+        {
+            "name":"Brownie",
+            "price":90
+        },
+        {
+            "name":"Gulab Jamun",
+            "price":50
+        },
+        {
+            "name":"Cookie",
+            "price":20
+        }
+    ],
+    "milkshakes":[
+        {
+            "name":"Chocolate",
+            "price":40
+        },
+        {
+            "name":"Vanilla",
+            "price":30
+        },
+        {
+            "name":"Raspberry",
+            "price":50
+        },
+        {
+            "name":"Oreo",
+            "price":50
+        }
+    ],
+    "cooldrinks":[
+        {
+            "name":"Any Drink",
+            "price":40
+        }
+    ]
+}
